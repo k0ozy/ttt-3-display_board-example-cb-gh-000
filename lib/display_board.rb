@@ -7,5 +7,3 @@ def display_board
   puts "-----------"
   puts "#{empty} | #{empty} | #{empty}"
 end
-
-return display_board
