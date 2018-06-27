@@ -2,10 +2,6 @@
 def display_board
   n = puts "         "
   puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
-  puts "-----------"
-  puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
-  puts "-----------"
-  puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
 end
 
 puts display_board
