@@ -7,4 +7,4 @@ def display_board
   row_4 = " | | "
 end
 
-return display_board
+puts display_board
