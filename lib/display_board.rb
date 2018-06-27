@@ -3,9 +3,9 @@ empty = " "
 def display_board
   puts empty + "|" + empty + "|" + empty 
   print -----------
-  print (" | | ")
+  print empty + "|" + empty + "|" + empty 
   print -----------
-  print (" | | ")
+  print empty + "|" + empty + "|" + empty 
 end
 
 return display_board
