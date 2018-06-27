@@ -7,4 +7,5 @@ def display_board
   print ( | | )
 end
 
-puts display_board
+return display_board
+
