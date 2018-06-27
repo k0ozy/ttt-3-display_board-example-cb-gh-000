@@ -3,9 +3,9 @@ def display_board
   empty = puts "         "
   puts "  #{empty} |  #{empty} | #{empty}"
   puts "-----------"
-  puts "#{empty} | #{empty} | #{empty}"
+  puts "  #{empty} |  #{empty} | #{empty}"
   puts "-----------"
-  puts "#{empty} | #{empty} | #{empty}"
+  puts "  #{empty} |  #{empty} | #{empty}"
 end
 
 puts display_board
