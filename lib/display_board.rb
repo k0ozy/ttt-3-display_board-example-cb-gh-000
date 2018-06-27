@@ -6,3 +6,5 @@ def display_board
   row_3 = "-----------"
   row_4 = " | | "
 end
+
+return display_board
