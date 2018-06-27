@@ -3,8 +3,8 @@ def display_board
   print (" " + "|" + " "+ "|" + " " + "|")
   print (-----------)
   print (" " + "|" + " "+ "|" + " " + "|")
-  print -----------
-  print " " + "|" + " "+ "|" + " " + "|"
+  print (-----------)
+  print (" " + "|" + " "+ "|" + " " + "|")
 end
 
 puts display_board
