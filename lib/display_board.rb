@@ -2,10 +2,10 @@
 empty = " "
 def display_board
   puts empty + "|" + empty + "|" + empty 
-  print -----------
-  print empty + "|" + empty + "|" + empty 
-  print -----------
-  print empty + "|" + empty + "|" + empty 
+  puts -----------
+  puts empty + "|" + empty + "|" + empty 
+  puts -----------
+  puts empty + "|" + empty + "|" + empty 
 end
 
 return display_board
