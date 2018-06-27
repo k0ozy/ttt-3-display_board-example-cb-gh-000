@@ -1,11 +1,11 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def display_board
-  empty = puts "         "
-  puts "  #{empty} |  #{empty} | #{empty}"
+  n = puts "         "
+  puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
   puts "-----------"
-  puts "  #{empty} |  #{empty} | #{empty}"
+  puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
   puts "-----------"
-  puts "  #{empty} |  #{empty} | #{empty}"
+  puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
 end
 
 puts display_board
